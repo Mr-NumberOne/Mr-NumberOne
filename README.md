@@ -13,9 +13,9 @@
 
 <!-- ================= TERMINAL INTRO ================= -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=2EA5F7&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=140&lines=%24+whoami;%3E+ahmed_al-maqtari.exe;%24+cat+career.log;%3E+ESL+Teacher+-%3E+Developer+-%3E+ERP+Team+Lead+-%3E+%3F%3F%3F;%24+python3+next_move.py;%3E+Loading+Data+Engineering+skills...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+72%25" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=2EA5F7&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=200&lines=%24+whoami;%3E+ahmed_al-maqtari.exe;%24+cat+career.log;%3E+ESL+Teacher+-%3E+Developer+-%3E+ERP+Team+Lead+-%3E+%3F%3F%3F;%24+python3+next_move.py;%3E+Loading+Data+Engineering+skills...+%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+20%25" alt="Typing SVG" />
 </div>
-
+</br>
 <div align="center">
 
 <a href="mailto:mr.numberone312@gmail.com"><img src="https://img.shields.io/badge/Email-mr.numberone312%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
