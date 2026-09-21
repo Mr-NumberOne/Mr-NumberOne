@@ -137,7 +137,7 @@ timeline
 | 🥇 | **#1 in class** — B.Sc. Computers & IT, Sana'a University (GPA 97.74%) |
 | 👨‍💼 | **Team Lead** — scaled an 8-person Odoo dev team through full SDLC |
 | 🌐 | **590/677 TOEFL ITP** — certified by ETS |
-| 🗣️ | **4+ years teaching** — before pivoting into software |
+| 🗣️ | **3+ years teaching** — before pivoting into software |
 | 🧩 | **4 bootcamps completed** — Data Engineering, AI, Blockchain/Web3, PHP |
 
 </div>
@@ -161,14 +161,14 @@ timeline
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-NumberOne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-NumberOne&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-NumberOne&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
 
-> 🔧 Replace `YOUR-GITHUB-USERNAME` above with your real GitHub handle to activate these — they pull live data automatically once the repo is public.
+> 🔧 Replace `Mr-NumberOne` above with your real GitHub handle to activate these — they pull live data automatically once the repo is public.
 
 ---
 
@@ -177,7 +177,7 @@ timeline
 Add the included `snake.yml` workflow to make a snake eat your contribution graph and render it right here in your README.
 
 ```markdown
-![snake gif](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Mr-NumberOne/Mr-NumberOne/output/github-contribution-grid-snake.svg)
 ```
 
 ---
@@ -192,7 +192,7 @@ Add the included `snake.yml` workflow to make a snake eat your contribution grap
 
 <br/><br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=Mr-NumberOne&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br/>
 
