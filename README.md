@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animated gradient wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA5F7,100:8E2DE2&height=220&section=header&text=Ahmed%20Al-Maqtari&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ERP%20Team%20Lead%20%7C%20Odoo%20%26%20Django%20Developer%20%7C%20Future%20Data%20Engineer&descAlignY=55&descSize=18" />
+<img width="100%" src="https://raw.githubusercontent.com/Mr-NumberOne/Mr-NumberOne/main/assets/banner-header.svg" />
 
 </div>
 
@@ -19,7 +19,7 @@
 <div align="center">
 
 <a href="mailto:mr.numberone312@gmail.com"><img src="https://img.shields.io/badge/Email-mr.numberone312%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Sana'a-Yemen-2EA5F7?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Sana%27a-Yemen-2EA5F7?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
@@ -161,24 +161,26 @@ timeline
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-NumberOne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-NumberOne&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-NumberOne&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-NumberOne&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Mr-NumberOne&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
-> 🔧 Replace `Mr-NumberOne` above with your real GitHub handle to activate these — they pull live data automatically once the repo is public.
+> 🔧 These pull live data for `Mr-NumberOne` automatically. If a card shows a broken-image icon, it's almost always the shared free-tier host being rate-limited — reload after a minute, or see the self-host note below.
 
 ---
 
 ## 🐍 Bonus Trick: Contribution Snake
 
-Add the included `snake.yml` workflow to make a snake eat your contribution graph and render it right here in your README.
+The included `snake.yml` workflow makes a snake eat your contribution graph and publishes it as an SVG/GIF. Once the workflow has run at least once (see note below), it renders live right here:
 
-```markdown
-![snake gif](https://raw.githubusercontent.com/Mr-NumberOne/Mr-NumberOne/output/github-contribution-grid-snake.svg)
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-NumberOne/Mr-NumberOne/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-NumberOne/Mr-NumberOne/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Mr-NumberOne/Mr-NumberOne/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> ⚠️ **First-time setup:** this stays a broken image link until the workflow has actually run once and created the `output` branch. Go to your repo's **Actions** tab → select **Generate Contribution Snake** → click **Run workflow** to trigger it manually the first time. After that it re-runs automatically every day via the cron schedule.
 
 ---
 
@@ -196,7 +198,7 @@ Add the included `snake.yml` workflow to make a snake eat your contribution grap
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2EA5F7&height=120&section=footer" />
+<img width="100%" src="https://raw.githubusercontent.com/Mr-NumberOne/Mr-NumberOne/main/assets/banner-footer.svg" />
 
 <i>"Graduated #1 in class. Now compiling my next chapter." 💻</i>
 
