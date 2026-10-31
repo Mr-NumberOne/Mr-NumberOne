@@ -179,9 +179,6 @@ The included `snake.yml` workflow makes a snake eat your contribution graph and 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-NumberOne/Mr-NumberOne/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/Mr-NumberOne/Mr-NumberOne/output/github-contribution-grid-snake.svg" />
 </picture>
-
-> ⚠️ **First-time setup:** this stays a broken image link until the workflow has actually run once and created the `output` branch. Go to your repo's **Actions** tab → select **Generate Contribution Snake** → click **Run workflow** to trigger it manually the first time. After that it re-runs automatically every day via the cron schedule.
-
 ---
 
 <div align="center">
